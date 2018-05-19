@@ -7,7 +7,7 @@
     margin: 0;
     background-size: cover;
     background-position: center center;
-    background-image: url("images/hero1.jpg") no-repeat center center fixed;
+    background-image: url("heroTVDM.jpg") no-repeat center center fixed;
     background-blend-mode: darken;
     -webkit-transition: 3s;
     transition: 3s;
